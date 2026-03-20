@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Ganiyupupo
+- 👋 Hi, I’m @ogk-diary
 - 👀 I’m interested in Data Analytics, Data Science and Cloud Computing
 - 🌱 I’m currently learning Data Analytics and Azure Cloud Computing
 - 💞️ I’m looking to collaborate on industry projects
